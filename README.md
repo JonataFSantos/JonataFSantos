@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 
 Estudante de desenvolvimento android, transicionando do mundo da educação como interprete de Libras para a área da tecnologia.
-Apaixanodos por novos desafios e curioso por natureza me encontrei na área do desenvolvimento de software.
+Apaixados por novos desafios e curioso por natureza me encontrei na área do desenvolvimento de software.
 
 
 **Atualmente:** ESTUDANDO.
